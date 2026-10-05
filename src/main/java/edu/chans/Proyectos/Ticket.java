@@ -1,4 +1,4 @@
-package edu.chans.endes;
+package edu.chans.Proyectos;
 
 public class Ticket {
 
